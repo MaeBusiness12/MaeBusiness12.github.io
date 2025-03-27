@@ -1,0 +1,72 @@
+
+@font-face
+{
+		font-family: fondamento;
+		src: url("fonts/Fondamento-Regular.ttf")
+}
+@font-face
+{
+	font-family: arvo;
+	src: url("fonts/Arvo-Regular.ttf")
+}	
+		h1
+		{
+	 		color: black;
+			text-align: center;
+			margin: auto;
+			font-size: 50pt;
+			font-family: fondamento;
+		}
+		iframe
+		{
+			margin-left: 200px;
+			margin-right: 200px;
+			margin-bottom: 25px;
+			margin-top: 25px;
+		}
+		h2
+		{
+			color: black;
+			text-align: center;
+			font-size: 30pt;
+			font-family: fondamento;
+		}
+		p
+		{
+			text-align: center;
+			font-size: 25pt;
+			color: rgb(100, 160, 202);
+			margin-left: 200px;
+			margin-right: 200px;
+			font-family: arvo;
+		}
+		:root
+		{
+			background-color: rgb(238, 219, 137);
+		}
+		nav
+		{
+			text-align: center;
+			margin: auto;
+			font-size: 30pt;
+			color: rgb(100, 160, 202);
+		}
+		li
+		{
+			tet-align: center;
+			font-size: 25pt;
+			margin-left: 200px;
+			margin-right: 200px;
+			color: rgb(100, 160, 202);
+		}
+		ol
+		{
+			margin-left: 200px;
+			margin-right: 200px;
+		}
+		img
+		{
+			display: block;
+			margin: auto;
+		}
+		
