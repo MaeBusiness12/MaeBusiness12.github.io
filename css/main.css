@@ -7,9 +7,14 @@
 		display: block;
 		margin: auto;
 	}
+    p
+    {
+        text-align: center;
+    }
    table
     {
        margin:auto;
+       text-align: center;
     }
     :root
     {
