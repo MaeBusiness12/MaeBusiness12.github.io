@@ -7,11 +7,7 @@
 		display: block;
 		margin: auto;
 	}
-    :root
-	{
-		background-color: blue;
-	}
-	p
-    {
-        margin: auto;
-    }
+   table
+   {
+        text-align: center;
+   }
